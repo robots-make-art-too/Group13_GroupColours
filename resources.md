@@ -16,7 +16,7 @@
 <li>In the film, we can see some special technology about AR. The operation interface of armor is one of the manifestations of AR, which maps the screen to the front</li>
 <p><a href="https://www.youtube.com/watch?v=8ugaeA-nMTc">Iron man</a></p>
 
-<li>These are some street art</li> 
+<li>These are some street art,people can use their imagine do some interesting things. For example, people can draw on the wall or ground and Interact with existing scenarios. Like Drawing a hole in the ground and pretending to fall down is also a kind of street art.</li> 
 <p><a href="https://www.youtube.com/watch?v=K0N4LVynvvM">Street art<a/></p>
 
 
