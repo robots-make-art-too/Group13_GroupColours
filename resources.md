@@ -11,6 +11,9 @@
   <li>Tesla's website uses AR technology to watch car models. Moreover, musk put forward the idea that AR technology will be used with Tesla as early as 2016, which is very interesting. I think that when Tesla is equipped with AR view, car owners can see the car condition more intuitively</li>
   <p><a href="https://virsabi.com/tesla/">Tesla</a></p>
   
+  <li> VR is different to AR, however, they still have the same technology. For my thought, I think VR is fake, AR is true, this is the Intuitive features.Because augmented reality and virtual reality are two distinct concepts.</li> 
+  <p><a href="https://arvr.google.com/earth/">VR</a></p>
+  
   
   
   
