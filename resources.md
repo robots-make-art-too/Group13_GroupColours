@@ -2,7 +2,7 @@
   <li> What is AR and What they can do?</li>
   <p><a href="https://arvr.google.com/ar/">What is AR</a></p>
   
-  <li></li>
+  <li>This is the application of AR technology on the map. We can better understand this area by modifying the layer. We can see the landform, surrounding scenic spots and other things</li>
   <p><a href="https://www.google.com/maps/@43.8006579,-79.3614688,8798m/data=!3m1!1e3!5m2!1e3!1e4?hl=zh_cn">AR on Map</a></p>
   
   
