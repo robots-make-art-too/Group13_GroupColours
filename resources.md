@@ -1,4 +1,4 @@
-<h1>  echnical resources </h1>
+<h1>  Technical resources </h1>
   
   
   
