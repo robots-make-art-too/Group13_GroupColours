@@ -1,5 +1,6 @@
 <h1>  Technical resources </h1>
-  
+  <li> What is AR and What they can do?</li>
+  <p><a herf="https://arvr.google.com/ar/">Google AR</a></p>
   
   
   
