@@ -19,7 +19,7 @@
 <li>These are some street art</li> 
 
 
-<li>This is Pokemon go</li>
+<li>This is Pokemon go，It is a very classic ar game, which uses the camera of the mobile phone to capture the real scene, and then play.</li>
 <p><a href="https://pokemongolive.com/">Pokemon Go</a></p>
 
   
