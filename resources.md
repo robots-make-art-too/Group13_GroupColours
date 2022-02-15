@@ -13,7 +13,7 @@
 
 
 <h1>dev-Yuying</h1>
-# 10 resources
+# 10 resources<br>
 1. What is a digital library? Technology, intellectual property, and the public interest
 
 Lyman, P. (1996). What is a digital library? Technology, intellectual property, and the public interest. Daedalus, 125(4), 1-33. http://ezproxy.library.yorku.ca/login?url=https://www.proquest.com/scholarly-journals/what-is-digital-library-technology-intellectual/docview/210569465/se-2?accountid=15182<br>
