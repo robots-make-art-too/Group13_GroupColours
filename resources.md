@@ -26,6 +26,9 @@
 <li>This is Pokemon go，It is a very classic ar game, which uses the camera of the mobile phone to capture the real scene, and then play.</li>
 <p><a href="https://pokemongolive.com/">Pokemon Go</a></p>
 
+<li>Amazing video. In addition to AR technology, I think this video shows a series of special effects such as ray tracing, which is very shocking. Maybe cities in the future will look like this. I can't tell whether it is reality or illusion</li>
+<p><a href="https://www.youtube.com/watch?v=F8MN0o6RS9o">Times Square, New York City</a></p>
+
   
 
 
