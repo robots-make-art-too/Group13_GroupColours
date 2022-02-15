@@ -1,7 +1,3 @@
-
-
-
-
 Yao Zhang
 
 Book/Manga: 
