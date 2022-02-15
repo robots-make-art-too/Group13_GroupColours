@@ -1,4 +1,18 @@
-Yuying
+dev-Beining
+1. Making art public: Mobilizing public art through technology, https://www.proquest.com/docview/304469684?parentSessionId=116GZVU3YNcXslofrfNAlgV6vlf3wRt%2FovPGrwUCYiw%3D&pq-origsite=primo&accountid=15182
+2. Art and Technology That Goes Beyond the Frame, https://muse-jhu-edu.ezproxy.library.yorku.ca/article/762957
+3. Cases on 3D Technology Application and Integration in Education, https://www.google.ca/books/edition/Cases_on_3D_Technology_Application_and_I/MMaeBQAAQBAJ?hl=en&gbpv=0
+4. New Media Installation: Technology in Public Art, https://www.google.ca/books/edition/New_Media_Installation/xt0HuQEACAAJ?hl=en
+5. Arts and Technology, https://www.google.ca/books/edition/Arts_and_Technology/xCtqCQAAQBAJ?hl=en&gbpv=0
+6. Public Art in Argumented Reality, https://www.ibigroup.com/ibi-insights/public-art-augmented-reality/
+7. Arts on the Block, https://artaic.com/installations/arts-on-the-block-chase/
+8. The Everyday Practice of Public Art, https://doi.org/10.4324/9781315737881
+9. New public art in White Rock faces criticism as the ‘two Michaels’ remain in China’s custody, https://www.mapleridgenews.com/news/new-public-art-in-white-rock-faces-criticism-as-the-two-michaels-remain-in-chinas-custody/
+10. Public Art and Design, https://www.roppongihills.com/en/facilities/publicart_design/
+=======
+
+
+dev-Yuying
 # 10 resources
 1. What is a digital library? Technology, intellectual property, and the public interest
 
@@ -53,7 +67,7 @@ https://lawrenceargent.com/public-art-projects/i-am-here/
 =======
 
 
-QiYue
+dev-QiYue
 <h1>  Technical resources </h1>
   <li> What is AR and What they can do?</li>
   <p><a href="https://arvr.google.com/ar/">What is AR</a></p>
@@ -103,7 +117,7 @@ QiYue
 
 =======
 
-Yao Zhang
+dev-Yao
 
 Book/Manga: 
 Kingdom, One piece, Blue Lock, Haikyuu, and One Punch Man
@@ -117,6 +131,7 @@ https://www.blippar.com/blog/2018/09/24/augmented-reality-tutorials-for-beginner
 https://www.arkasoftwares.com/blog/how-to-add-ar-content-to-a-website/
 
 https://developers.google.com/web/updates/2019/05/model-viewer-ar
+
 
 
 
