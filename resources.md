@@ -8,6 +8,9 @@
   <li>As one of the most close technological ways to human life, AR is applied in many places. Apple is one of the largest ar platforms in the world, with tens of thousands of devices. Many of Apple's software uses AR technology, such as DSLR Camera，JigSpace. </li>
   <p><a href="https://www.apple.com/ca/augmented-reality/">Apple</a></p>
   
+  <li>Tesla's website uses AR technology to watch car models. Moreover, musk put forward the idea that AR technology will be used with Tesla as early as 2016, which is very interesting. I think that when Tesla is equipped with AR view, car owners can see the car condition more intuitively</li>
+  <p><a href="https://virsabi.com/tesla/">Tesla</a></p>
+  
   
   
   
