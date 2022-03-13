@@ -1,4 +1,4 @@
 
 Website for Ar Code
 
-![Alt text](relative/path/to/repo.png?raw=true "repo.png")
+![Alt text](pages/QR_Codes/repo.png?raw=true "repo.png")
