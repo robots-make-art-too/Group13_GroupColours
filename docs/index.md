@@ -1,3 +1,4 @@
 
+Website for Ar Code
 
-<img src= "../QR_Codes/repo.png>
+![Alt text](relative/path/to/repo.png?raw=true "Title")
