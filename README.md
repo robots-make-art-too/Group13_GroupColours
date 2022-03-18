@@ -1,2 +1,2 @@
-# Group13_GroupColours
+# Group13_GroupSmilingFace
 
