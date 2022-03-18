@@ -1,19 +1,5 @@
 
-<!DOCTYPE html>
-
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title></title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="../assets/css/index.css">
-
-        <title>Group Smiling Face</title>
-    </head>
-    <body><!-- goes to ar scene page  or not..-->
-        <button type="button" onclick="openTab('')">Take me to image and video source AR</button>
+ <button type="button" onclick="openTab('')">Take me to image and video source AR</button>
 			<script>
 				function openTab(url) {
 					const link = document.createElement('a');
@@ -24,9 +10,8 @@
 					link.remove();
 				}
 			</script>
-			<img src="website/pages/QR_Codes/repo.png" alt="QRCodeForMainPage" width="200"/>
-    </body>
-</html>
+<img src="website/pages/QR_Codes/repo.png" alt="QRCodeForMainPage" width="200"/>
+
 
 
 
