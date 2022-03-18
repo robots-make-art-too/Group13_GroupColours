@@ -15,22 +15,17 @@
 		renderer="logarithmicDepthBuffer: true;"
 		vr-mode-ui="enabled: false"
 		id="scene">
-			<a-assets>
-				<a-asset-item id="smile" src="https://raw.githack.com/robots-make-art-too/GroupProject_info/df693164cd6fe5ccead4f9bd9a3be5a043edcbfb/docs/website/assets/models/bowser.glb"></a-asset-item>
-			</a-assets>
-			
-			<a-marker id="hiro-1" preset="hiro">
-				<a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
-<!-- 				<a-entity id="example-gltf" position="0 0.5 0" rotation="0 180 0" scale="10 10 10" gltf-model="#example"></a-entity> -->
-				<a-entity id="example-gltf" position="0 0.5 0" rotation="0 180 0" scale="0.5 0.5 0.5" gltf-model="#example"></a-entity>
-			</a-marker>
+		<a-assets>
+			<a-asset-item id="SmileFace" src="https://rawcdn.githack.com/robots-make-art-too/Group13_GroupSmilingFace/204de118c5a3feb8b51e404a815ae0c6daea06a6/docs/website/pages/marker-based/SmileFace.glb"></a-asset-item>
+		</a-assets>
+		
+	
 
-			<a-marker id="custom-1" type="pattern" url="https://raw.githubusercontent.com/robots-make-art-too/GroupProject_info/df693164cd6fe5ccead4f9bd9a3be5a043edcbfb/docs/website/assets/markers/pattern-go.patt">
-				<a-entity id="bowser-gltf" position="0.5 0.5 0" scale="0.05 0.05 0.05" gltf-model="#bowser"></a-entity>
-			</a-marker>
+		<a-marker id="custom-1" type="pattern" url="https://raw.githubusercontent.com/robots-make-art-too/GroupProject_info/df693164cd6fe5ccead4f9bd9a3be5a043edcbfb/docs/website/assets/markers/pattern-go.patt">
+			<a-entity id="SmileFace-gltf" position="0.5 0.5 0" scale="1.3 1.3 1.3" gltf-model="#SmileFace"></a-entity>
+		</a-marker>
 
-			<a-entity camera></a-entity>
-
+		<a-entity camera></a-entity>
 		</a-scene>
 
 
