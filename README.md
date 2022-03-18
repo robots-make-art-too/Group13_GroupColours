@@ -1,6 +1,6 @@
 
 
 
-# Group13_GroupSmileingFace
+# Group13_GroupSmilingFace
 
 
