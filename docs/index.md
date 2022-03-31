@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <link href="index.css" rel="stylesheet" type="text/css">
 
-    <title>Group13_Project</title>
-</head>
-<body>
  <h1> Group13_Smiling Face </h1>
 
 
