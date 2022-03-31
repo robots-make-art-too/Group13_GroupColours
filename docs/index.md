@@ -1,7 +1,7 @@
 
  <h1> Group13_Smiling Face </h1>
- 
-<img src="website/pages/QR_Codes/repo.png" alt="QRCodeForMainPage" width="200"/>
+
+
 
 <p> The main pattern of our final project is a smiling face, which will appear when the stuff is scanned by camera on the website. These days we made the plan for the on going days, and discussed what each person is arranged to do. Besides, we also use the computer to make the 3D model, which is a smiling face. In addition, we worked on our code and check whether it works. </p>
 
@@ -10,8 +10,3 @@
 <li> research some relevant code </li>
 <li> work on some basic code and check whether it works </li>
 <li> discuss what each person is arranged to do </li>
-
-
-
-
-
