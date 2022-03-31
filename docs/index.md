@@ -10,8 +10,3 @@
 <li> research some relevant code </li>
 <li> work on some basic code and check whether it works </li>
 <li> discuss what each person is arranged to do </li>
-
-
-
-</body>
-</html>
