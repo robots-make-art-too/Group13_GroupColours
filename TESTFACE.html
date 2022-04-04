@@ -72,7 +72,7 @@
       <a-scene mindar-face embedded color-space="sRGB" renderer="colorManagement: true, physicallyCorrectLights" vr-mode-ui="enabled: false" device-orientation-permission-ui="enabled: false">
         <a-assets>
           <a-asset-item id="headModel" src="https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.1.4/examples/face-tracking/assets/sparkar/headOccluder.glb"></a-asset-item>
-          <a-asset-item id="SmileModel" src="SmileFace.glb"></a-asset-item>
+          <a-asset-item id="SmileModel" src="https://rawcdn.githack.com/robots-make-art-too/Group13_GroupSmilingFace/204de118c5a3feb8b51e404a815ae0c6daea06a6/docs/website/pages/marker-based/SmileFace.glb"></a-asset-item>
 
         </a-assets>
         <a-camera active="false" position="0 0 0"></a-camera>
@@ -81,7 +81,7 @@
 	  <a-gltf-model mindar-face-occluder position="0 -0.3 0.15"rotation="0 0 0" scale="0.065 0.065 0.065" src="#headModel"></a-gltf-model>
         </a-entity>
         <a-entity mindar-face-target="anchorIndex: 10">
-	  <a-gltf-model rotation="0 -0 0" position="0 1.0 -0.5" scale="0.35 0.35 0.35" src="#SmileModel" class="Smile-entity" visible="false"></a-gltf-model>
+	  <a-gltf-model rotation="0 -0 0" position="0 -0.5 -0.3" scale="2.75 2.75 2.75" src="#SmileModel" class="Smile-entity" visible="false"></a-gltf-model>
         </a-entity>
 </a-scene>
     </div>
