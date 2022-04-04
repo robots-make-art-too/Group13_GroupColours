@@ -8,7 +8,7 @@
     <script>
       document.addEventListener("DOMContentLoaded", function() {
 	const list = ["Smile"];
-	const visibles = [true, false, false, true, true];
+	const visibles = [true];
 	const setVisible = (button, entities, visible) => {
 	  if (visible) {
 	    button.classList.add("selected");
@@ -30,6 +30,9 @@
 	});
       })
     </script>
+
+
+
     <style>
       body {
         margin: 0;
@@ -58,6 +61,8 @@
       }
     </style>
   </head>
+
+
   <body>
     <div class="example-container">
       <div class="options-panel">
